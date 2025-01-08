@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Buy groceries",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Finish coding assignment",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Read a book",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Walk the dog",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "Clean the house",
+      "completed": false
+    }
+  ]
+}
