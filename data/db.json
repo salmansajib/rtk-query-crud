@@ -4,7 +4,7 @@
       "userId": 1,
       "id": "1",
       "title": "Buy groceries",
-      "completed": true
+      "completed": false
     },
     {
       "userId": 1,
@@ -13,22 +13,16 @@
       "completed": true
     },
     {
-      "id": "160e",
-      "userId": 1,
-      "title": "Go for a walk",
-      "completed": false
-    },
-    {
       "id": "13QvNdpeFUhidat4NKOUF",
       "userId": 1,
       "title": "Make breakfast",
-      "completed": false
+      "completed": true
     },
     {
       "id": "8i3AZngrodqejXOpzqq4m",
       "userId": 1,
       "title": "Do laundry",
-      "completed": true
+      "completed": false
     }
   ]
 }
